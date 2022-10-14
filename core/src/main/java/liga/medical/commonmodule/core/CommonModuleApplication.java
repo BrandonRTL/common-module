@@ -9,7 +9,7 @@ import org.springframework.context.annotation.ComponentScan;
 public class CommonModuleApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(liga.medical.commonmodule.core.CommonModuleApplication.class, args);
+        SpringApplication.run(CommonModuleApplication.class, args);
     }
 
 }
